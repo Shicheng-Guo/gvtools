@@ -1,2 +1,2 @@
 # gvtools
-# author: Shihcheng.Guo@gmail.com
+author: Shihcheng.Guo@gmail.com
